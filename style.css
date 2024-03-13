@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: #dfc8c2;  
+}
+
+.navegador{
+    position: absolute;
+    background-color:#b48e7b;
+    width: 350px;
+    height: 100%;
+}
+
+.figura{
+    position: relative;
+    top: 200px;
+    left: 50px;
+}
+
+.foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.botoes{
+    position: relative;
+    text-align: center;
+    top: 260px;
+    font-size: 30px;    
+}
+
+.conteudo{
+
+    position: relative;
+    width: 1290px;
+    height: 50vh;
+    top: 200px;
+    left: 460px;
+}
+
+.nome{
+    position: relative;
+    top: 70px;
+    left: 0px;
+    font-size: 290%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dados{
+    position: relative;
+    bottom: 50px;
+    left: 53px;
+    font-size: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.email{
+    text-decoration: underline;
+    color: black;
+}
+
+.descricao{
+    color: black;
+    text-align: left;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90%;
+    top: 130px;
+    left: 10px;
+}
+
+.icones{
+    position: relative;
+    top: 160px;
+    left: 10px;
+}
+
+.icons{
+    position: relative;
+    top: 40px;
+    left: 52px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.conteudoc{
+    
+    position: relative;
+    width: 70vw;
+    height: 70vh;
+    top: 200px;
+    left: 460px;
+}
+h1{
+    position: relative;
+
+}
+h3{
+    position: relative;
+    
+    top: 70px;
+    left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol{
+    position: relative;
+    left: 80px;
+    top: 70px;
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conteudoo{
+    position: relative;
+    width: 70vw;
+    height: 70vh;
+    top: 200px;
+    left: 460px;
+}
+
+.lista1{
+    position: relative;
+    top: 80px;
+}
+
+.especial{
+ top: 120px;
+}
+
+.lista2{
+    position: relative;
+    top: 130px;
+}
+
